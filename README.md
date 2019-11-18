@@ -1,2 +1,2 @@
 # memeGen
-A Meme Generator -- written in React.js while doing the scrimba react tutorial.
+A quickly written Meme Generator, making use of React.js :) 
